@@ -1,5 +1,5 @@
 ## 💀 GHOST-SHELL V2.0 💀
-**The Ultimate Cross-Platform Penetration Testing Tool Installer.**
+**Platform Penetration Testing Tool Installer.**
 
 Ghost-Shell adalah script otomasi berbasis Python yang dirancang untuk mempercepat setup environment cybersecurity. Dibuat dengan antarmuka terminal modern (Rich UI) untuk kenyamanan maksimal para researcher.
 
@@ -20,6 +20,7 @@ Ghost-Shell adalah script otomasi berbasis Python yang dirancang untuk mempercep
 6. **SocialPhish** - Modern Phishing Pages.
 7. **Ngrok** - Secure Introspection Tunnels.
 8. **SocialBox** - Brute Force Attack Framework.
+9. **Dll**
 
 ---
 
@@ -30,6 +31,6 @@ Buka aplikasi Termux, lalu masukkan perintah berikut:
 ```bash
 pkg update && pkg upgrade
 pkg install git python -y
-git clone [https://github.com/USERNAME_KAMU/GHOST-SHELL.git](https://github.com/USERNAME_KAMU/GHOST-SHELL.git)
+git clone [https://github.com/123tool/GHOST-SHELL-V2.0.git]
 cd GHOST-SHELL
 python ghost.py
