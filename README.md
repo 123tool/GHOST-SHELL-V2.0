@@ -1,4 +1,4 @@
-## 💀 GHOST-SHELL V2.0 💀
+## 💀 GHOST SHELL V2.0
 **Platform Penetration Testing Tool Installer.**
 
 Ghost-Shell adalah script otomasi berbasis Python yang dirancang untuk mempercepat setup environment cybersecurity. Dibuat dengan antarmuka terminal modern (Rich UI) untuk kenyamanan maksimal para researcher.
@@ -42,4 +42,6 @@ sudo apt update && sudo apt install git python3 python3-pip -y
 git clone [https://github.com/123tool/GHOST-SHELL-V2.0.git]
 cd GHOST-SHELL-V2.0
 python3 ghost.py
-
+```
+## ⚠️ Disclaimer
+**​Ghost-Shell dibuat hanya untuk tujuan pendidikan dan pengujian keamanan yang legal. Segala bentuk penyalahgunaan script ini untuk aktivitas ilegal adalah tanggung jawab penuh pengguna. Hacking tanpa izin adalah tindakan kriminal!**
