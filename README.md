@@ -32,5 +32,14 @@ Buka aplikasi Termux, lalu masukkan perintah berikut:
 pkg update && pkg upgrade
 pkg install git python -y
 git clone [https://github.com/123tool/GHOST-SHELL-V2.0.git]
-cd GHOST-SHELL
+cd GHOST-SHELL-V2.0
 python ghost.py
+```
+### 🐧 Via Linux (Kali/Ubuntu/Debian)
+​Buka terminal, jalankan:
+```bash
+sudo apt update && sudo apt install git python3 python3-pip -y
+git clone [https://github.com/123tool/GHOST-SHELL-V2.0.git]
+cd GHOST-SHELL-V2.0
+python3 ghost.py
+
