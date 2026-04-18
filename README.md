@@ -1,4 +1,4 @@
-# 💀 GHOST-SHELL V2.0 💀
+## 💀 GHOST-SHELL V2.0 💀
 **The Ultimate Cross-Platform Penetration Testing Tool Installer.**
 
 Ghost-Shell adalah script otomasi berbasis Python yang dirancang untuk mempercepat setup environment cybersecurity. Dibuat dengan antarmuka terminal modern (Rich UI) untuk kenyamanan maksimal para researcher.
